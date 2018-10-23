@@ -3,6 +3,12 @@
 <css>
 <style>
 
+table, tr, td { background-color: ffffff; border:solid; border-width:0px;}
+body {background-color:#ffffff;}
+table table table table {border:0px;}
+table table table {border-style:solid; border-width: 0px; padding: 0px; background-color: F7F7F7;} table, tr, td, li, p, div, .text {font-family: helvetica; color:#322a2c; font-size:10px;}
+
+
 
 p {text-align: justify;}
 
