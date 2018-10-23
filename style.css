@@ -4,6 +4,20 @@
 <style>
 
 
+.backpic {position: fixed; width: px; height: px; margin-right: 0px; margin-bottom: 0px;right: 390px;
+bottom: 0%;  padding: 0px; background-color:  transparent; overflow: hidden;}
+
+.pic {position: fixed; width: 320px; height: px; margin-right: 0px; margin-top: 420px; left: 30px; top: 0%; padding: 0px; background-color:  ffffff; overflow: hidden; text-align: justify;}
+
+.box {position: fixed; width: 220px; height: 100px; margin-right: 0px; margin-top: 500px; left: 350px; top: 0%; padding: 20px; background-color: ffffff; overflow: auto; text-align: justify;}
+
+.bio {position: fixed; width: 320px; height: 87px; margin-right: 0px; margin-top: 500px; left: 0px; top: 0%; padding: 20px; background-color:  ffffff; overflow: auto; text-align: justify;}
+
+
+
+.hey {position: fixed; width: 220px; height: 90px; margin-right: 0px; margin-top: 380px; left: 350px; top: 0%; padding: 20px; background-color:  ffffff; overflow: auto; text-align: justify;}
+
+.nav {position: fixed; width: 320px; height: 10px; margin-right: 0px; margin-top: 640px; left: 280px; top: 0%; padding: 10px; background-color: #fffff; overflow: hidden; text-align: right;}
 
 
 
@@ -17,7 +31,7 @@ height:1px;
 width:1px;
 }
 
-* {cursor: url(http://cur.cursors-4u.net/others/oth-6/oth589.cur), auto !important;} 
+* {cursor: url(http://cur.cursors-4u.net/others/oth-6/oth589.cur), auto !important;}
 
 
 
