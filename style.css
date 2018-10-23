@@ -48,7 +48,8 @@ letter-spacing:2px;
 }
 
 
-
+.backpic {position: fixed; width: px; height: px; margin-right: 0px; margin-bottom: 0px;right: 0px;
+bottom: 0%;  padding: 0px; background-color:  transparent; overflow: hidden;}
 
 .box {position: fixed; width: 220px; height: 100px; margin-right: 0px; margin-top: 800px; left: 350px; top: 0%; padding: 20px; background-color: ffffff; overflow: auto; text-align: justify;}
 
@@ -63,7 +64,15 @@ a:active, a:visited, a:link {font: normal 10px lucida console; font-weight: norm
 
 
 
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
 
 ::-webkit-scrollbar {
 background-color: #000000;
